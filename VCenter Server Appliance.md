@@ -49,14 +49,9 @@
 > Смотрим, какой установлен DNS у рабочей станции.<br>
 > Если у вас доменная машина, заходим на контроллер домена и добавляем DNS запись для vCenter, например: vcsa.dc01.local и ip адрес 192.168.25.202.
 
-
 ![image](https://github.com/user-attachments/assets/26f9363a-0e60-4192-9d6d-6611fc7a7667)
 
-И так, заполняем 6-ю вкладку
-
-![image](https://github.com/user-attachments/assets/25e8dede-c42b-4fdf-b071-aa6e10ff3109)
-
-или так
+Если не в домене как у меня, значит заполняем так
 
 ![image](https://github.com/user-attachments/assets/2a406571-063c-4e55-a704-4dedbf3cb1b1)
 
