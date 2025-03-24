@@ -55,7 +55,7 @@
 
 ![image](https://github.com/user-attachments/assets/eb7ce573-e2c2-4d9b-b616-223c2ba72919)
 
-
+![image](https://github.com/user-attachments/assets/d1778bfe-2d3d-4ffc-afbf-4761b5dc0224)
 
 Адрес ниже позволит в любой момент изменить конфигурацию vCenter. Сейчас он не нужен,но если перейти по адресу ``https://192.168.25.202:5480/`` то увидите это
 
