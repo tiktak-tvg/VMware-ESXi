@@ -115,3 +115,6 @@ vSphere Web Client откроется страница входа, введя у
 
 ![image](https://github.com/user-attachments/assets/7d9b5569-5e2b-4f8e-9a3b-e9d006984c28)
 
+Так же можно зайти на ESXi под прежним логином ``root`` и паролем  ``https://192.168.25.201/ui/#/host``
+
+![image](https://github.com/user-attachments/assets/0ff2ba73-a651-4a73-9f0a-e678e9413647)
