@@ -88,9 +88,24 @@
 
 ![image](https://github.com/user-attachments/assets/1bdd0221-f33e-4218-beed-0474da6694eb)
 
+Нажимаем ``Finish`` и начнется настройка VCSA
 
+![image](https://github.com/user-attachments/assets/a865716f-2a6f-454c-a9f6-354625988711)
 
+После ее завершения вы увидите сообщение об успешной установке и ссылку для перехода в интерфейс управления ``VCenter`` 
+```python 
+https://<FQDN or IP>:443
+```
+![image](https://github.com/user-attachments/assets/b9ee529e-f5dc-45c8-8305-d4b3fdc1f56c)
 
+Вместо https://photon-machine:443 прописать  https://IP адрес вашей машины<br>
+У меня, например будет так  https://192.168.25.202 Перейдём по ссылке
 
+![image](https://github.com/user-attachments/assets/79dbce47-b8e1-4807-91db-5e0d3c1c96c8)
 
+Перейдя по ссылке, можно выбрать либо Web-client либо HTML5-client(с ограниченной функциональностью).
+
+vSphere Web Client откроется страница входа, введя учетные данные попадаем в в интерфейс управления VCenter
+
+![image](https://github.com/user-attachments/assets/38d0f144-9024-44d9-98e0-830ef25451e2)
 
