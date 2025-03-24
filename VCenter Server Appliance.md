@@ -41,7 +41,32 @@
 
 Далее, указываем datastore, на котором будут располагаться файлы виртуальной машины VCSA(здесь можно выбрать «тонкий» формат дисков ВМ, установив соответствующий чекбокс).
 
+![58](https://github.com/user-attachments/assets/c39be1f3-f5c8-458c-9cdb-502813e366af)
 
 Дальше нам понадобится внутренний FQDN для vCenter.
-Смотрим, какой установлен DNS у рабочей станции, с которой мы запустили процесс установки.
-Так получилось, что у нас доменная машина, поэтому заходим на домен контроллер и добавляем DNS запись для vCenter: vcenter-67-31032020.vgrade-dc.local и ip адрес 192.168.0.108.
+
+> [!Warning]
+> Смотрим, какой установлен DNS у рабочей станции.<br>
+> Если у вас доменная машина, заходим на контроллер домена и добавляем DNS запись для vCenter, например: vcsa.dc01.local и ip адрес 192.168.25.202.
+![image](https://github.com/user-attachments/assets/f5f6ceda-c413-4702-9197-84fc4109e4f8)
+
+У меня рабочая группа, машина не в домене, я пропишу DNS в файле ``C:\Windows\System32\drivers\etc\hosts`` или можно в FQDN просто вбить IP адрес
+
+![image](https://github.com/user-attachments/assets/26f9363a-0e60-4192-9d6d-6611fc7a7667)
+
+И так, заполняем 6-ю вкладку
+
+![image](https://github.com/user-attachments/assets/25e8dede-c42b-4fdf-b071-aa6e10ff3109)
+
+или так
+
+![image](https://github.com/user-attachments/assets/2a406571-063c-4e55-a704-4dedbf3cb1b1)
+
+![image](https://github.com/user-attachments/assets/f89e818b-03ba-48c7-9e8b-ccb67149055b)
+
+![image](https://github.com/user-attachments/assets/eb7ce573-e2c2-4d9b-b616-223c2ba72919)
+
+
+
+
+
