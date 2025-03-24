@@ -66,7 +66,10 @@
 
 ![image](https://github.com/user-attachments/assets/eb7ce573-e2c2-4d9b-b616-223c2ba72919)
 
+##### Конфигурирование vCenter
 
+Адрес ниже позволит в любой момент изменить конфигурацию vCenter.
 
+![67](https://github.com/user-attachments/assets/fe4af087-e975-44b1-91bd-610b900d0791)
 
 
