@@ -72,4 +72,13 @@
 
 ![67](https://github.com/user-attachments/assets/fe4af087-e975-44b1-91bd-610b900d0791)
 
+![image](https://github.com/user-attachments/assets/f6964797-52e0-4b32-8caf-6dd98e733497)
+
+Определяем настройки синхронизации времени, с хостом или с серверами точного времени в Интернете<br>
+В случае синхронизации с серверами в Интернете, укажите имена серверов через запятую
+
+![image](https://github.com/user-attachments/assets/dfbb016d-6beb-475e-8b18-567ec1f513cd)
+
+
+
 
