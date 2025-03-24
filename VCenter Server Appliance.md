@@ -48,9 +48,7 @@
 > [!Warning]
 > Смотрим, какой установлен DNS у рабочей станции.<br>
 > Если у вас доменная машина, заходим на контроллер домена и добавляем DNS запись для vCenter, например: vcsa.dc01.local и ip адрес 192.168.25.202.
-![image](https://github.com/user-attachments/assets/f5f6ceda-c413-4702-9197-84fc4109e4f8)
 
-У меня рабочая группа, машина не в домене, я пропишу DNS в файле ``C:\Windows\System32\drivers\etc\hosts`` или можно в FQDN просто вбить IP адрес
 
 ![image](https://github.com/user-attachments/assets/26f9363a-0e60-4192-9d6d-6611fc7a7667)
 
@@ -87,5 +85,20 @@
 ![image](https://github.com/user-attachments/assets/dfbb016d-6beb-475e-8b18-567ec1f513cd)
 
 Дальше идут настройки SSO-домена(Single Sign On). Можно создать новый SSO-domain или присоединиться к существующему.
+Не рекомендуют использовать по умолчанию ``vsphere.local``, поэтому задаем своё имя домена, сайта и пароль администратора
+
+![image](https://github.com/user-attachments/assets/c6fa4f24-609c-4cfc-8d8e-5475ef1bfb5b)
+
+На следующем экране снимаем галку, если не хотим присоединяться к программе VMware Customer Experience Improvement Program
+
+![image](https://github.com/user-attachments/assets/da52b89f-22cb-4d50-8268-e1ba95896352)
+
+Итак в результате
+
+![image](https://github.com/user-attachments/assets/f090d4e8-8685-4a70-aa22-f24834282108)
+
+
+
+
 
 
