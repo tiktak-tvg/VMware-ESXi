@@ -68,9 +68,12 @@
 
 ##### Конфигурирование vCenter
 
-Адрес ниже позволит в любой момент изменить конфигурацию vCenter.
-
 ![67](https://github.com/user-attachments/assets/fe4af087-e975-44b1-91bd-610b900d0791)
+
+Адрес ниже позволит в любой момент изменить конфигурацию vCenter. Сейчас он не нужен,но если перейти по адресу ``https://vcsa.local:5480/`` то увидите это
+
+
+
 
 ![image](https://github.com/user-attachments/assets/f6964797-52e0-4b32-8caf-6dd98e733497)
 
