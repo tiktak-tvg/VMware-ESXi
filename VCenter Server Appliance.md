@@ -86,7 +86,8 @@
 
 Итак в результате
 
-![image](https://github.com/user-attachments/assets/f090d4e8-8685-4a70-aa22-f24834282108)
+![image](https://github.com/user-attachments/assets/1bdd0221-f33e-4218-beed-0474da6694eb)
+
 
 
 
