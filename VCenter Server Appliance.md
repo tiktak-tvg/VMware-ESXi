@@ -1,4 +1,4 @@
-##### Установка и настройка VCenter Server Appliance.
+##### Установка и настройка VCenter Server Appliance на ESXi 6.7 
 
 Откройте скачанный ISO-образ, перейдите в папку ``vcsa-ui-installer -> win32``(при установке с компьютера с Windows) и запустите файл ``installer.exe``
 
