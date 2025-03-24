@@ -105,7 +105,13 @@ https://<FQDN or IP>:443
 
 Перейдя по ссылке, можно выбрать либо Web-client либо HTML5-client(с ограниченной функциональностью).
 
-vSphere Web Client откроется страница входа, введя учетные данные попадаем в в интерфейс управления VCenter
+vSphere Web Client откроется страница входа, введя учетные данные administrator@vsp.local попадаем в в интерфейс управления VCenter
 
 ![image](https://github.com/user-attachments/assets/38d0f144-9024-44d9-98e0-830ef25451e2)
+
+Если хотите изменить конфигурацию vCenter перейти по адресу ``https://192.168.25.202:5480/``
+
+Введя учетные данные administrator@vsp.local
+
+![image](https://github.com/user-attachments/assets/7d9b5569-5e2b-4f8e-9a3b-e9d006984c28)
 
