@@ -55,11 +55,11 @@
 
 ![image](https://github.com/user-attachments/assets/eb7ce573-e2c2-4d9b-b616-223c2ba72919)
 
-![67](https://github.com/user-attachments/assets/fe4af087-e975-44b1-91bd-610b900d0791)
 
-Адрес ниже позволит в любой момент изменить конфигурацию vCenter. Сейчас он не нужен,но если перейти по адресу ``https://vcsa.local:5480/`` то увидите это
 
-![image](https://github.com/user-attachments/assets/d0c0a596-a616-4a1b-85ea-168bd1abd40f)
+Адрес ниже позволит в любой момент изменить конфигурацию vCenter. Сейчас он не нужен,но если перейти по адресу ``https://192.168.25.202:5480/`` то увидите это
+
+![70](https://github.com/user-attachments/assets/417c3262-aa27-4bb7-8989-fff47263f06b)
 
 ##### Конфигурирование vCenter
 
