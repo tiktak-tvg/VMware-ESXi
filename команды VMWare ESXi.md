@@ -15,7 +15,7 @@ esxcli esxcli command list
 вывести все команды esxcli 
 
 Для начала команды ESXi, которые вы можете выполнять через ssh доступ.
-
+```bash
 reboot — перезагрузить хост
 poweroff — выключить хост
 esxcli system version get — узнать версию (номер) инсталлированной версии VMware ESXi
@@ -128,3 +128,4 @@ cat /etc/chkconfig.db — посмотреть состояние сервисо
 vmkload_mod --list — Показать загруженные драйвера;
 vmkload_mod -s /mod/your_driver — Показать параметры драйверов;
 vmkfstools -i /vmfs/volumes/san_vmfs/my_vm/large_disk.vmdk -d thin /vmfs/volumes/san_vmfs/my_vm/new_thin_disk.vmdk — Конвертировать существующий диск в thin формат;
+```
