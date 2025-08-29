@@ -32,6 +32,8 @@
 
 ##### Редактирование
 
+Каждый функционал разберём отдельно.
+
 <img width="863" height="727" alt="image" src="https://github.com/user-attachments/assets/124f0c59-3376-46e2-a4dd-a78404e4e2b6" />
 
 <img width="863" height="728" alt="image" src="https://github.com/user-attachments/assets/d287028d-8c15-473e-9ab9-3be8046411c5" />
