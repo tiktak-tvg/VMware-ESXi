@@ -40,4 +40,14 @@
 
 <img width="862" height="727" alt="image" src="https://github.com/user-attachments/assets/20d1e004-5278-492d-a003-8c58ec7f3aff" />
 
+##### Варианты планирования
+
+<img width="1153" height="879" alt="image" src="https://github.com/user-attachments/assets/2892f100-e58b-49a3-b043-c922158f0af5" />
+
+<img width="1155" height="874" alt="image" src="https://github.com/user-attachments/assets/d558e686-cc25-4642-9a32-4c8c3683fa51" />
+
+##### Доступность vSphere
+
+<img width="1331" height="673" alt="image" src="https://github.com/user-attachments/assets/b85dd509-e255-443a-9b05-0f1440e447b0" />
+
 
