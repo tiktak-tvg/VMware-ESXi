@@ -32,7 +32,8 @@
 
 ##### Редактирование
 
-<img width="863" height="727" alt="image" src="https://github.com/user-attachments/assets/3f03c4ce-1aff-457c-b71b-27567baf9991" />
+<img width="863" height="727" alt="image" src="https://github.com/user-attachments/assets/124f0c59-3376-46e2-a4dd-a78404e4e2b6" />
+
 
 
 
