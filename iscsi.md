@@ -106,7 +106,10 @@ msft iscsi disk в vmware esxi
 
 <img width="809" height="273" alt="image" src="https://github.com/user-attachments/assets/f5019177-633a-4dfd-bde1-0b71a0dbc288" />
 
-Итак, вы подключили iSCSI диск к вашему ESXi хосту и создали на нем VMFS хранилище. Это хранилище могут одновременно использовать несколько ESXi серверов. Теперь у вас есть общее хранилище, и если вы настроите VMware vCenter server, вы сможете использовать vMotion для перемещения запущенных ВМ между хостами.
+<img width="1174" height="238" alt="image" src="https://github.com/user-attachments/assets/d426438e-40bc-4459-babe-8ad4ac432ff0" />
+
+> Итак, вы подключили iSCSI диск к вашему ESXi хосту и создали на нем VMFS хранилище. Это хранилище могут одновременно использовать несколько ESXi серверов.<br>
+Теперь у вас есть общее хранилище, и если вы настроите VMware vCenter server, вы сможете использовать vMotion для перемещения запущенных ВМ между хостами.
 
 
 
