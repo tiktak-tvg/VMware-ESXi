@@ -10,7 +10,7 @@ PowerCLI — один из самых мощных инструментов дл
 ```python
 Find-Module -Name VMware.PowerCLI
 ```
-<img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/d1daea76-813c-40a8-b082-7b0374730083" />
+<img width="1048" height="130" alt="image" src="https://github.com/user-attachments/assets/dc466b2c-ff9f-4c7d-8984-906e38ac9f34" />
 
 Чтобы установить модуль PowerCLI для всех пользователей, выполните команду:
 ```python
