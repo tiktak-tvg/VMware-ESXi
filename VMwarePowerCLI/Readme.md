@@ -29,6 +29,8 @@ install-module VMware.PowerCLI -scope AllUsers -force -SkipPublisherCheck -Allow
 ```python
 Get-PowerCLIVersion
 ```
+<img width="1031" height="234" alt="image" src="https://github.com/user-attachments/assets/845bb6cf-40ed-4bf0-a599-2f84874cb4a6" />
+
 Вы можете указать, следует ли участвовать в программе улучшения качества обслуживания клиентов VMware. 
 
 Чтобы сказать «Нет»
