@@ -54,11 +54,17 @@ Get-VMHost 192.168.25.209 | Get-VMHostService | Where-Object {$_.Key -eq "TSM-SS
 # (Опционально) сделать автозапуск
 Get-VMHost 192.168.25.209 | Get-VMHostService | Where-Object {$_.Key -eq "TSM-SSH"} | Set-VMHostService -Policy "On"
 ```
+
+<img width="1052" height="195" alt="image" src="https://github.com/user-attachments/assets/922f0a6e-981b-4f6d-9469-22fa083361f1" />
+
 ##### 3.Проверить доступ до другого порта, например 443, правда если вы зашли через Connect-VIServer, то его проверять нет смысла, он открыт
 ```powershell
 Test-NetConnection -ComputerName 192.168.25.209 -Port 22
 Test-NetConnection -ComputerName 192.168.25.209 -Port 443
 ```
+
+<img width="1023" height="337" alt="image" src="https://github.com/user-attachments/assets/25edef78-6e35-499a-8501-198c992911fc" />
+
 ##### 4.Проверить правила файрвола на ESXi
 ESXi имеет собственный файрвол. Убедитесь, что SSH разрешён:
 
@@ -70,6 +76,8 @@ Get-VMHostFirewallException -VMHost 192.168.25.209 | Where-Object {$_.Name -like
 ```powershell
 Get-VMHostFirewallException -VMHost 192.168.25.209 -Name "SSH Server" | Set-VMHostFirewallException -Enabled $true
 ```
+
+<img width="1073" height="318" alt="image" src="https://github.com/user-attachments/assets/60883131-05cb-4aa4-91d3-085222f9c8fb" />
 
 ##### 5.На самом деле, если соединение зависло на строке «Подключение к root@192.168.25.209…», или подключение по SSH к серверу root@192.168.25.209, вот что можно проверить:
 Правила файервола
@@ -107,3 +115,5 @@ $esxcli.network.firewall.ruleset.allowedip.list.Invoke(@{rulesetid="sshServer"})
 <img width="1050" height="632" alt="image" src="https://github.com/user-attachments/assets/114c1275-dd3a-425e-b91b-df57f6a13986" />
 
 <img width="1314" height="453" alt="image" src="https://github.com/user-attachments/assets/cc1bad8d-3fee-43c9-87df-482e4cf5dc08" />
+
+<img width="1020" height="267" alt="image" src="https://github.com/user-attachments/assets/5379a781-c4d6-4747-ab02-08547c6158db" />
