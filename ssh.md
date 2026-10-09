@@ -55,7 +55,7 @@ Get-VMHost 192.168.25.209 | Get-VMHostService | Where-Object {$_.Key -eq "TSM-SS
 Get-VMHost 192.168.25.209 | Get-VMHostService | Where-Object {$_.Key -eq "TSM-SSH"} | Set-VMHostService -Policy "On"
 ```
 
-<img width="1052" height="195" alt="image" src="https://github.com/user-attachments/assets/922f0a6e-981b-4f6d-9469-22fa083361f1" />
+<img width="1016" height="125" alt="image" src="https://github.com/user-attachments/assets/bd2007a9-a67e-4adf-b2e2-a66fd5fd8b5a" />
 
 ##### 3.Проверить доступ до другого порта, например 443, правда если вы зашли через Connect-VIServer, то его проверять нет смысла, он открыт
 ```powershell
