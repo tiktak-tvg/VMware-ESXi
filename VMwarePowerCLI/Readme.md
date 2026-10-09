@@ -49,6 +49,8 @@ Get-Command -Module *VMWare*
 ```python
 Get-Module -ListAvailable VMware* | Select Name,version
 ```
+<img width="1056" height="440" alt="image" src="https://github.com/user-attachments/assets/8f03c8a0-e27e-4c99-9a06-7bbdbd1fc516" />
+
 Команда для обновления модуля PowerCLI в PowerShell:
 ```python
 Update-Module -Name VMware.PowerCLI
@@ -59,6 +61,8 @@ Update-Module -Name VMware.PowerCLI
 ```python
 Find-Module -Name VMware.PowerCLI -AllVersions|select version
 ```
+<img width="1009" height="512" alt="image" src="https://github.com/user-attachments/assets/a8df535d-43e0-4a2f-9d4e-36590a86d1be" />
+
 ведите необходимую версию, выбранную из вывода предыдущей команды, например,
 12.4.1.18769701
 ```python
@@ -76,9 +80,11 @@ Set-PowerCLIConfiguration -InvalidCertificateAction Ignore
 ```
 Если все правильно, вы можете подключиться к vCenter Server или хосту ESXi с помощью команды:
 ```python
-Connect-VIServer 10.10.10.11
+Connect-VIServer 192.168.25.209
 ```
 Используйте имя хоста или IP-адрес нужного сервера.
+
+<img width="1021" height="320" alt="image" src="https://github.com/user-attachments/assets/fc5e11af-450c-4f82-966f-1701418f1536" />
 
 Получите список виртуальных машин VMware, управляемых сервером, к которому вы подключились:
 ```python
