@@ -117,3 +117,21 @@ $esxcli.network.firewall.ruleset.allowedip.list.Invoke(@{rulesetid="sshServer"})
 <img width="1314" height="453" alt="image" src="https://github.com/user-attachments/assets/cc1bad8d-3fee-43c9-87df-482e4cf5dc08" />
 
 <img width="1020" height="267" alt="image" src="https://github.com/user-attachments/assets/5379a781-c4d6-4747-ab02-08547c6158db" />
+
+
+Самый быстрый способ получить SSH-доступ прямо сейчас — использовать vCenter как трамплин. Если у вас есть vCenter, и с него SSH к ESXi, есть вероятность, что работает.
+
+Подключитесь по SSH к вашему vCenter (если у вас есть к нему доступ).
+
+С vCenter выполните: ssh root@192.168.25.209.
+
+Если это сработает — проблема гарантированно во внешней сети между вашей рабочей станцией и ESXi.
+
+Из ESXi Shell диагностика:
+
+```bash
+esxcli network ip connection list | grep :22
+esxcli network firewall ruleset allowedip list --ruleset-id=sshServer
+esxcfg-vmknic -l
+ps | grep busybox
+```
