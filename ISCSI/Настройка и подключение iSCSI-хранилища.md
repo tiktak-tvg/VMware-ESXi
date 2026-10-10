@@ -55,6 +55,8 @@
 
 <img width="1117" height="903" alt="image" src="https://github.com/user-attachments/assets/b0bfb9a4-1658-4434-875a-709c1d50956e" />
 
+#### Создаём первый таргет
+
 <img width="1109" height="889" alt="image" src="https://github.com/user-attachments/assets/9d74d25d-5f6c-4c7e-b384-e8d76814071e" />
 
 <img width="1258" height="662" alt="image" src="https://github.com/user-attachments/assets/1a427ef5-6dc5-4acf-a8b7-34d08fce863b" />
