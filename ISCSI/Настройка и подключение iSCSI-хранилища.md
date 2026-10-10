@@ -32,11 +32,15 @@
 #### Подготавливаем хранилища(диски), чтобы они были видны в списке хранилищ при подключении по ISCSI
 
 <img width="1117" height="667" alt="10" src="https://github.com/user-attachments/assets/948f8656-09ef-4f65-b45c-7c05492dabe6" />
-***
+
 <img width="1323" height="869" alt="7" src="https://github.com/user-attachments/assets/8cc2699d-02fb-45c2-85f9-610c05acdf78" />
-***
+
 <img width="1309" height="866" alt="8" src="https://github.com/user-attachments/assets/ccaef49a-4e5b-4666-bf2e-cb750e17c809" />
+
 ***
+---
+___
+
 <img width="1164" height="590" alt="9" src="https://github.com/user-attachments/assets/3c0b9e90-bf36-4f87-8cce-99213ee75016" />
 ***
 <img width="1140" height="859" alt="11" src="https://github.com/user-attachments/assets/f9e5909f-0311-4269-a708-8ce58793b1f7" />
@@ -55,7 +59,7 @@
 
 <img width="1117" height="903" alt="image" src="https://github.com/user-attachments/assets/b0bfb9a4-1658-4434-875a-709c1d50956e" />
 
-
+#### Проверяем как настроен бранмауер
 
 <img width="1109" height="889" alt="image" src="https://github.com/user-attachments/assets/9d74d25d-5f6c-4c7e-b384-e8d76814071e" />
 
