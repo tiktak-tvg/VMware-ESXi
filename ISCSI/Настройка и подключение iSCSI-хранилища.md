@@ -65,6 +65,9 @@
 <img width="1117" height="903" alt="image" src="https://github.com/user-attachments/assets/abd5f310-8047-4f21-99a8-76e286e4d1c2" />
 
 ---
+
+#### Инициализируем от куда к таргету будем подключаться
+
 <img width="1109" height="883" alt="image" src="https://github.com/user-attachments/assets/8d391731-77a1-4947-9a38-059b8478470a" />
 
 ---
