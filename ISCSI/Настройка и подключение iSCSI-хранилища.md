@@ -76,7 +76,7 @@
 ---
 <img width="1109" height="889" alt="image" src="https://github.com/user-attachments/assets/9d74d25d-5f6c-4c7e-b384-e8d76814071e" />
 
-#### Проверяем как настроен бранмауер
+#### Проверяем как настроен брандмауэр windows
 
 <img width="1258" height="662" alt="image" src="https://github.com/user-attachments/assets/1a427ef5-6dc5-4acf-a8b7-34d08fce863b" />
 
@@ -87,6 +87,8 @@
 <img width="1014" height="701" alt="image" src="https://github.com/user-attachments/assets/322c4d53-f73d-4c09-8f6c-cf43816b6b52" />
 
 ---
+#### Настраиваем брандмауэр windows
+
 <img width="1284" height="799" alt="image" src="https://github.com/user-attachments/assets/31c9ba37-7d56-40c8-91ef-4320d15d5d3d" />
 
 ---
