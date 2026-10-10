@@ -1,4 +1,19 @@
 ### Настройка и подключение iSCSI-хранилища
+Для начала, что требуется сделать.
+
+Чтобы не возникло проблем, когда у LUN-устройства нет достаточного количества путей доступа, настроим два сетевых пути. 
+- Это не обязательно означает полный отказ оборудования — система работает, но защита от сбоев на этом пути снижена.
+
+Настраиваем сеть.
+
+- vSwitch3 (ISCSI-1): vmk1 (192.168.25.185) → vmnic1.
+- vSwitch4 (ISCSI-2): vmk2 (192.168.25.186) → vmnic2.
+- ARP и ping работают с обоих интерфейсов.
+- На сервере Windows порт 3260 слушаtтся и брандмауэр включен.
+
+<img width="1367" height="594" alt="image" src="https://github.com/user-attachments/assets/52a9adba-ae00-4647-9624-4b409fa30c67" />
+
+<img width="1361" height="593" alt="image" src="https://github.com/user-attachments/assets/7bb83da5-8eca-49e6-b67c-535f0c0af503" />
 
 <img width="1105" height="657" alt="1" src="https://github.com/user-attachments/assets/5e8f9ef4-c726-42ec-9d24-c7d81871dd7e" />
 
