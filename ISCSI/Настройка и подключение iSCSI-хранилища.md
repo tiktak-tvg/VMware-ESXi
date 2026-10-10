@@ -29,7 +29,7 @@
 
 <img width="1352" height="661" alt="6" src="https://github.com/user-attachments/assets/c29b8306-c3b0-43e5-9fbe-2a817e50b6a3" />
 
-#### Подготавливаем диски, чтобы они были видны в Обнаружении при подключении по ISCSI
+#### Подготавливаем хранилища(диски), чтобы они были видны в списке хранилищ при подключении по ISCSI
 
 <img width="1117" height="667" alt="10" src="https://github.com/user-attachments/assets/948f8656-09ef-4f65-b45c-7c05492dabe6" />
 
