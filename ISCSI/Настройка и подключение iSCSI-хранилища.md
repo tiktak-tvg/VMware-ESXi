@@ -27,6 +27,8 @@
 
 <img width="1128" height="552" alt="5" src="https://github.com/user-attachments/assets/eb7e775a-8bd8-4e61-bce6-08c4e7b813ce" />
 
+#### Подготавливаем диски
+
 <img width="1352" height="661" alt="6" src="https://github.com/user-attachments/assets/c29b8306-c3b0-43e5-9fbe-2a817e50b6a3" />
 
 <img width="1323" height="869" alt="7" src="https://github.com/user-attachments/assets/8cc2699d-02fb-45c2-85f9-610c05acdf78" />
