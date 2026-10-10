@@ -98,7 +98,8 @@
 <img width="1254" height="563" alt="image" src="https://github.com/user-attachments/assets/eef6ba89-b4d1-48ba-ab41-cb3e8261a0d7" />
 
 ---
-Сейчас всё работает: цель подключена, диск виден, осталось только создать на нем хранилище.
+
+*Сейчас всё работает: цель подключена, диск виден, осталось только создать на нем хранилище.*
 
 1. На скриншоте с устройствами MSFT iSCSI Disk (naa.60003ff44dc75adca7f572ae1b6ff28c) нажмите кнопку New datastore (Новое хранилище).
 
@@ -118,6 +119,7 @@
 
 <img width="1154" height="383" alt="image" src="https://github.com/user-attachments/assets/31973191-f8fc-4ea9-b909-68649e976c4d" />
 
+***
 
 
 
