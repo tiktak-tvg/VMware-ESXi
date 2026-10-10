@@ -12,6 +12,7 @@
 - На сервере Windows порт 3260 слушается и брандмауэр включен.
 
 <img width="1367" height="594" alt="image" src="https://github.com/user-attachments/assets/52a9adba-ae00-4647-9624-4b409fa30c67" />
+
 ***
 ---
 <img width="1361" height="593" alt="image" src="https://github.com/user-attachments/assets/7bb83da5-8eca-49e6-b67c-535f0c0af503" />
