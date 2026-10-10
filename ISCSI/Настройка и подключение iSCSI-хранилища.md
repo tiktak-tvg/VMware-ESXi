@@ -4,12 +4,12 @@
 Чтобы не возникло проблем, когда у LUN-устройства нет достаточного количества путей доступа, настроим два сетевых пути. 
 - Это не обязательно означает полный отказ оборудования — система работает, но защита от сбоев на этом пути снижена.
 
-Настраиваем сеть.
+#### Настраиваем сеть в VMware ESXi
 
 - vSwitch3 (ISCSI-1): vmk1 (192.168.25.185) → vmnic1.
 - vSwitch4 (ISCSI-2): vmk2 (192.168.25.186) → vmnic2.
 - ARP и ping работают с обоих интерфейсов.
-- На сервере Windows порт 3260 слушаtтся и брандмауэр включен.
+- На сервере Windows порт 3260 слушается и брандмауэр включен.
 
 <img width="1367" height="594" alt="image" src="https://github.com/user-attachments/assets/52a9adba-ae00-4647-9624-4b409fa30c67" />
 
@@ -18,6 +18,8 @@
 <img width="1105" height="657" alt="1" src="https://github.com/user-attachments/assets/5e8f9ef4-c726-42ec-9d24-c7d81871dd7e" />
 
 <img width="1103" height="667" alt="2" src="https://github.com/user-attachments/assets/17eabda2-28da-4a4f-a513-cbd6c001ecc8" />
+
+#### Настройка и подключение iSCSI-хранилища в Windows Server 
 
 <img width="1352" height="708" alt="3" src="https://github.com/user-attachments/assets/ace4bfc2-396b-4173-9e95-7ec938a52a72" />
 
