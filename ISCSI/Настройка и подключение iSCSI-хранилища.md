@@ -45,3 +45,35 @@
 <img width="1167" height="670" alt="image" src="https://github.com/user-attachments/assets/d165cb52-36e5-4fa0-8565-9b9241eec279" />
 
 <img width="1254" height="563" alt="image" src="https://github.com/user-attachments/assets/eef6ba89-b4d1-48ba-ab41-cb3e8261a0d7" />
+
+Сейчас всё работает: цель подключена, диск виден, осталось только создать на нем хранилище.
+
+1. На скриншоте с устройствами MSFT iSCSI Disk (naa.60003ff44dc75adca7f572ae1b6ff28c) нажмите кнопку New datastore (Новое хранилище).
+
+<img width="1237" height="395" alt="image" src="https://github.com/user-attachments/assets/8aa50853-6a33-4b92-8d7a-effe8ae3759f" />
+
+2. Выберите тип VMFS.
+
+3. Дайте хранилищу имя (например, iSCSI-DB1).
+
+4. Выберите в списке устройств ваш диск MSFT iSCSI Disk (naa.60003ff44dc75adca7f572ae1b6ff28c).
+
+5. Выберите версию VMFS (обычно VMFS 6).
+
+6. Завершите мастер.
+
+После этого новое хранилище появится в разделе Storage слева, и вы сможете создавать на нем виртуальные машины или перемещать туда существующие.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
