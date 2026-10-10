@@ -54,7 +54,7 @@
 ---
 <img width="1142" height="839" alt="12" src="https://github.com/user-attachments/assets/8ca28395-e7e4-4907-9098-1cf49cd64868" />
 
-#### Создаём первый таргет
+#### Создаём первый таргет(хранилище)
 
 <img width="1115" height="902" alt="image" src="https://github.com/user-attachments/assets/fdacba49-6db6-41a7-8a52-e1a431852789" />
 
@@ -121,7 +121,7 @@
 
 ***
 
-
+> - По аналогии, можно подключать следующие хранилища.
 
 
 
