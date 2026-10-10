@@ -123,7 +123,10 @@
 
 > - По аналогии, можно подключать следующие хранилища.
 
+<img width="1273" height="414" alt="image" src="https://github.com/user-attachments/assets/3f764feb-cada-4e29-a593-a3cbe08e2363" />
 
+---
+<img width="1278" height="366" alt="image" src="https://github.com/user-attachments/assets/4a1fcce3-9601-4ca0-b2bd-2a005439b54e" />
 
 
 
