@@ -79,6 +79,9 @@ ESXCLI, часть оболочки ESXi, представляет собой с
 which esxcli
 ls -l /sbin/esxcli
 ```
+
+<img width="1137" height="76" alt="image" src="https://github.com/user-attachments/assets/37ef376f-abbe-4dd0-8d21-fd6dfbd3342f" />
+
 Как можно убедиться, проверив вывод консоли, ESXCLI – это сценарий, написанный на языке Python, расположенный в каталоге /sbin/. Если вы хотите увидеть содержимое сценария, вы можете использовать встроенный текстовый редактор vi.
 Основным синтаксисом ESXCLI является следующий:
 ```bash
@@ -88,6 +91,9 @@ esxcli [параметры] {пространство имен}+ {команда
 ```bash
 esxcli esxcli command list
 ```
+
+<img width="1166" height="1034" alt="image" src="https://github.com/user-attachments/assets/682e18a9-5e46-4100-84a5-f57e8cf76b9a" />
+
 Список доступных команд ESXCLI зависит от версии ESXi. Новые команды могут быть добавлены.
 
 Следовательно, список основных пространств имен ESXCLI для ESXi 8.0 выглядит следующим образом:
