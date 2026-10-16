@@ -1,4 +1,4 @@
-### Подключение SSH на VMware ESXi / vCenter
+### Подключение SSH на VMware ESXi / vCenter.
 На самом хосте ESXi SSH-сервер (обычно это Dropbear) управляется иначе, чем в Linux.
 
 #### Настраиваем сеть 
